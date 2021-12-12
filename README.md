@@ -7,13 +7,13 @@ This game would be impossible to beat because we are going to use the Artificial
 
 
 <div>
-  <img width="200" src="https://user-images.githubusercontent.com/85172635/145696807-3d011c7e-9137-4e63-bd4b-0ca0e3a50b33.jpg"/>
+  <img width="150" src="https://user-images.githubusercontent.com/85172635/145696807-3d011c7e-9137-4e63-bd4b-0ca0e3a50b33.jpg"/>
   
- <img width="200" src="https://user-images.githubusercontent.com/85172635/145696940-c6bcba58-6872-49b9-8a50-652ecaa22384.jpg"/>
+ <img width="150" src="https://user-images.githubusercontent.com/85172635/145696940-c6bcba58-6872-49b9-8a50-652ecaa22384.jpg"/>
  
- <img width="200" src="https://user-images.githubusercontent.com/85172635/145697208-7168783b-174c-4e69-b1ad-078d3c77063c.jpg"/>
+ <img width="150" src="https://user-images.githubusercontent.com/85172635/145697208-7168783b-174c-4e69-b1ad-078d3c77063c.jpg"/>
  
- <img width="200" src="https://user-images.githubusercontent.com/85172635/145697211-1ea97ebc-474b-4b06-8c7a-da4257e2d6fe.jpg"/>
+ <img width="150" src="https://user-images.githubusercontent.com/85172635/145697211-1ea97ebc-474b-4b06-8c7a-da4257e2d6fe.jpg"/>
 </div>
 <br>
 <h2><b>What is MiniMax Algorithm 🤔</b></h2><br>
